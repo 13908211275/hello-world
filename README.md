@@ -1,3 +1,2 @@
-# hello-world
 
-hello, world!
+A golang demonstration project.
