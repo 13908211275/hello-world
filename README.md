@@ -1,2 +1,2 @@
 
-A golang demonstration project.
+A golang exercise project
